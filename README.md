@@ -22,12 +22,12 @@ This project aims to build on top of the the second mini project (Meron_Gedrago_
 │       ├── install.yml
 │       ├── lint.yml
 │       ├── test.yml
-├── mylib/
-│   └── lib.py
 ├── .gitignore
 ├── Requirements.txt
 ├── Makefile
 ├── README.md
+├── mylib/
+│   └── lib.py
 ├── main.py
 ├── main.ipynb
 ├── Data_visual.png
