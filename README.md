@@ -6,7 +6,7 @@
 
 # Meron_Gedrago_Individual_project1 
 
-Welcome to the first individual project for Data Engineering!
+Welcome to the first individual project for Data Engineering! Please also find a demo of this repository [here](https://youtu.be/1sLnrnrgGYg).
 
 ## Structure for this project 
 
@@ -32,14 +32,14 @@ This project aims to build on top of the the second mini project (Meron_Gedrago_
 ├── main.ipynb
 ├── Data_visual.png
 ├── test.csv
-├── test_lib.csv
+├── test_lib.py
 └── test_main.py
 
 ```
 
 ## Purpose of this project and findings 
 
-Source of the data: [the National Vital Statistics System](https://catalog.data.gov/dataset/drug-overdose-death-rates-by-drug-type-sex-age-race-and-hispanic-origin-united-states-3f72f/resource/e8eca080-11f4-4ff6-85f6-5476093f5361)
+Source of the data: [the National Vital Statistics System](https://catalog.data.gov/dataset/drug-overdose-death-rates-by-drug-type-sex-age-race-and-hispanic-origin-united-states-3f72f/resource/e8eca080-11f4-4ff6-85f6-5476093f5361) 
 
 The dataset looks at the death in the United States over the years due to drugs. The data has multiple columns and breaks down where the death rates are coming from. For this project, 
 I will just be focusing on looking at the trend of death rates over the year. Therefore, I had to filter the dataset in *MG_main.py*. 
