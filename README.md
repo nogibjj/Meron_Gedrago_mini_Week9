@@ -1,8 +1,11 @@
+[![Lint](https://github.com/nogibjj/Meron_Gedrago_mini_Week9/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Meron_Gedrago_mini_Week9/actions/workflows/lint.yml)
+[![Test](https://github.com/nogibjj/Meron_Gedrago_mini_Week9/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Meron_Gedrago_mini_Week9/actions/workflows/test.yml)
+[![Install](https://github.com/nogibjj/Meron_Gedrago_mini_Week9/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Meron_Gedrago_mini_Week9/actions/workflows/install.yml)
+[![Format](https://github.com/nogibjj/Meron_Gedrago_mini_Week9/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Meron_Gedrago_mini_Week9/actions/workflows/format.yml)
+
 # Meron Gedrago miniproject 9 
 
 ## Structure for this project 
-
-This project aims to build on top of the the second mini project (Meron_Gedrago_miniproject2) where we worked on reading csv files using pandas and visualizing a dataset. In this project, we will create a library of function which will serve a source of functions for the python script and jupyter notebook we will create. Additionally, we will be creating separate badges for different CI actions and lint using rust. Find below the structure of the project
 
 ```
 ├── .devcontainer/
@@ -28,12 +31,11 @@ This project aims to build on top of the the second mini project (Meron_Gedrago_
 └── test_main.py
 
 ```
+### [Link to google colab jupyter notebook ](https://colab.research.google.com/drive/1Jp5J6swhhB-hAmpmKIuofl7gj2tHmRiU?usp=sharing)
 
 ## Purpose of this project 
 
 This project aims to build on top Data Engineering Individual 1 where we replicate the jupyter notebook to make it available in google colab that you can access [here](https://colab.research.google.com/drive/1Jp5J6swhhB-hAmpmKIuofl7gj2tHmRiU?usp=sharing). 
-
-
 
 ## Findings from the data anlysis
 
