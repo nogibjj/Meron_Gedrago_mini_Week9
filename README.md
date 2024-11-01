@@ -1,12 +1,4 @@
-[![Format](https://github.com/nogibjj/Meron_Gedrago_individual1/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Meron_Gedrago_individual1/actions/workflows/format.yml)
-[![Install](https://github.com/nogibjj/Meron_Gedrago_individual1/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Meron_Gedrago_individual1/actions/workflows/install.yml)
-[![Lint](https://github.com/nogibjj/Meron_Gedrago_individual1/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Meron_Gedrago_individual1/actions/workflows/lint.yml)
-[![Test](https://github.com/nogibjj/Meron_Gedrago_individual1/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Meron_Gedrago_individual1/actions/workflows/test.yml)
-
-
-# Meron_Gedrago_Individual_project1 
-
-Welcome to the first individual project for Data Engineering! Please also find a demo of this repository [here](https://youtu.be/1sLnrnrgGYg).
+# Meron Gedrago miniproject 9 
 
 ## Structure for this project 
 
@@ -37,7 +29,13 @@ This project aims to build on top of the the second mini project (Meron_Gedrago_
 
 ```
 
-## Purpose of this project and findings 
+## Purpose of this project 
+
+This project aims to build on top Data Engineering Individual 1 where we replicate the jupyter notebook to make it available in google colab that you can access [here](https://colab.research.google.com/drive/1Jp5J6swhhB-hAmpmKIuofl7gj2tHmRiU?usp=sharing). 
+
+
+
+## Findings from the data anlysis
 
 Source of the data: [the National Vital Statistics System](https://catalog.data.gov/dataset/drug-overdose-death-rates-by-drug-type-sex-age-race-and-hispanic-origin-united-states-3f72f/resource/e8eca080-11f4-4ff6-85f6-5476093f5361) 
 
@@ -56,8 +54,6 @@ The max is 21.6 and the min is 6.0
 <img src="Data_visual.png" alt="alt text" width="1000">
 
 
-
 ## References 
 **Previous projects**
-- [Meron Gedrago Data Engineering mini project 1](https://github.com/nogibjj/Meron_Gedrago_miniproject1)
-- [Meron Gedrago Data Engineering mini project 2](https://github.com/nogibjj/Meron_Gedrago_miniprojt2)
+- [Meron Gedrago Data Engineering Individual project 1](https://github.com/nogibjj/Meron_Gedrago_individual1)
